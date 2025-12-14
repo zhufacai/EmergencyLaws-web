@@ -2,8 +2,8 @@ baseURL = "/"
 title = "新疆应急法规汇编"
 languageCode = 'zh-cn'
 defaultContentLanguage = 'zh'
-
 theme = "hugo-book"
+keywords = ["应急法规", "应急法规汇编", "新疆应急", "安全生产法规", "应急管理法规", "新疆应急管理厅", "新疆维吾尔自治区应急管理厅"]
 # enableGitInfo = true
 
 [params]
@@ -16,7 +16,8 @@ theme = "hugo-book"
   BookFlatSection = true
   enableInlineShortcodes = true
   localSearch = true
-  
+  description = "新疆维吾尔自治区应急管理厅官方打造的应急法规汇编，包含安全生产、应急救援、防灾减灾等方面常见的法律、法规、规范性文件，是应急人必备的法规查询工具。"
+  keywords = ["应急法规", "应急法规汇编", "新疆应急", "安全生产法规", "应急管理法规", "新疆应急管理厅", "新疆维吾尔自治区应急管理厅"]
   [markup]
   [markup.tableOfContents]
     # 纳入目录的最小标题级别，默认为3
