@@ -14,6 +14,6 @@ lastmod: 2025-12-08
 
 
 
-- 更新时间: 2026年04月20日 
+- 更新时间: 2026年05月28日 
 - 法律内容来源于国家法律法规数据库，该项目仅做整合和搜索等功能，如果您在使用过程中发现部分法条有误，或不完整，请联系开发者进行修改。[[意见反馈](https://docs.qq.com/form/page/DRHVCSUxkUE1IVmtQ)]
 - [移动端APP下载](https://www.xcxwo.com/xjyjfg)
