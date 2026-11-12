@@ -1,2 +1,4 @@
 .env
 .env.build
+public/
+.DS_Store
