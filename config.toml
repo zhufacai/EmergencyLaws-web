@@ -26,3 +26,5 @@ keywords = ["应急法规", "应急法规汇编", "新疆应急", "安全生产�
     ordered = false
     # 纳入目录的最大标题级别，默认为2
     startLevel = 2
+[markup.goldmark.renderer]
+  unsafe = true

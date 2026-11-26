@@ -17,4 +17,14 @@ lastmod: 2025-12-08
 - 更新时间: 2026年05月28日 
 - 法律内容来源于国家法律法规数据库，该项目仅做整合和搜索等功能，如果您在使用过程中发现部分法条有误，或不完整，请联系开发者进行修改。[[意见反馈](https://docs.qq.com/form/page/DRHVCSUxkUE1IVmtQ)]
 - [移动端APP下载](https://www.xcxwo.com/xjyjfg)
-- [陇ICP备20001226号-3](https://beian.miit.gov.cn/)
+
+<div style="text-align: center; padding: 15px 0; font-size: 13px; color: #666; font-family: Arial, sans-serif;">
+    <a href="https://beian.miit.gov.cn/" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       style="color: #666; text-decoration: none; transition: color 0.3s;"
+       onmouseover="this.style.color='#0056b3'"
+       onmouseout="this.style.color='#666'">
+        陇ICP备20001226号-3
+    </a>
+</div>
